@@ -15,7 +15,7 @@ We are looking predict future military expenditures for various countries based 
 Partner(s)/Contributor(s)  
 Swapnil Patil
 Carrie Little
-Maurin Scheets 
+Maurin Scheetz
 
 Website for partner, if available. 
 N/A
