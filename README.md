@@ -27,7 +27,7 @@ pip install -r requirements.txt
 3. Run Jupyter Notebook - Military_Expenditure_Forecasting_and_Analysis.ipynb
 
 ## Notebook Results
-> [Military Expenditure Forecasting and Analysis - Jupyter Notebook Results](https://swapnilprakashpatil.github.io/aai501_6proj/MS AAI_501_Group_6_Notebook_Military_Expenditure_Forecasting_and_Analysis.html)
+> [Military Expenditure Forecasting and Analysis - Jupyter Notebook Results](https://swapnilprakashpatil.github.io/aai501_6proj/MS%20AAI_501_Group_6_Notebook_Military_Expenditure_Forecasting_and_Analysis.html)
 
 ## Project Intro/Objective
 We are looking predict future military expenditures for various countries based on historical data from the Stockholm International Peace Research Institute (SIPRI) and related economic and geopolitical factors. By leveraging SIPRI’s datasets on military spending, arms transfers, and conflict, we aim to build a time series forecasting model that can provide insights into spending trends by country and region. 
@@ -38,7 +38,7 @@ Carrie Little
 Maurin Scheetz
 
 ## Website for partner, if available. 
-[Military Expenditure Forecasting and Analysis - Jupyter Notebook Results](https://swapnilprakashpatil.github.io/aai501_6proj/MS AAI_501_Group_6_Notebook_Military_Expenditure_Forecasting_and_Analysis.html)
+[Military Expenditure Forecasting and Analysis - Jupyter Notebook Results](https://swapnilprakashpatil.github.io/aai501_6proj/MS%20AAI_501_Group_6_Notebook_Military_Expenditure_Forecasting_and_Analysis.html)
 
 ## Partner contact: 
     - [Swapnil Patil], spatil@sandiego.edu
